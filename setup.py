@@ -13,6 +13,7 @@ setup(
     author = "Tomas Zulberti",
     author_email = "tzulberti@gmail.com",
     url = "http://github.com/tzulberti/django-request-provider",
+    zip_safe = False,
     keywords = [
         "django contrib",
         "request object provider"
