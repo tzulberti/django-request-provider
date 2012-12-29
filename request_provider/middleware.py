@@ -12,7 +12,7 @@ class RequestProvider(object):
         self._request = None
         request_accessor.connect(self)
 
-    def process_request(self,request):
+    def process_request(self, request):
         self._request = request
         return None
 
