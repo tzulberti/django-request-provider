@@ -7,7 +7,7 @@ setup(
     ],
     packages = find_packages('.'),
     package_dir = {'':'.'},
-    version = "1.0.0",
+    version = "1.0.1",
     description = "access django request object whenever you need it",
     long_description=open('README.md').read(-1),
     author = "Tomas Zulberti",
