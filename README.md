@@ -25,4 +25,10 @@ And when you require the request, just do:
     from request_provider.signals import get_request 
     http_request = get_request()
 
+Credits
+-------
+
+It seems the code was taken from here: https://github.com/malfaux/snakecheese/tree/master/gadjolib/gadjo/requestprovider
+So all the credit should go to: malfaux
+
 
